@@ -27,11 +27,11 @@ Aplikasi Arsip Surat dibuat untuk mempermudah pengelolaan surat masuk/keluar, te
 ## Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/chyntiawindyhapsari/arsip.git
+   git clone https://github.com/chyntiawindyhapsari/arsip_surat.git
    ```
 2. Go to the project directory
    ```bash
-   cd arsip
+   cd arsip_surat
    ```
 3. Instal Dependensi Laravel
    ```bash
