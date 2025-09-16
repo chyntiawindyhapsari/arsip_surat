@@ -60,22 +60,22 @@ Aplikasi Arsip Surat dibuat untuk mempermudah pengelolaan surat masuk/keluar, te
 
 ## Dokumentasi
 Halaman Utama Arsip
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpg)
 Halaman Tambah Arsip
-![Tambah Arsip](images/tambah_arsip.png)
+![Tambah Arsip](images/tambah_arsip.jpg)
 Halaman Edit Arsip
-![Edit Arsip](images/edit_arsip.png)
+![Edit Arsip](images/edit_arsip.jpg)
 Halaman Hapus Arsip
-![Hapus Arsip](images/hapus_arsip.png)
+![Hapus Arsip](images/hapus_arsip.jpg)
 Halaman Lihat Arsip
-![Lihat Arsip](images/lihat_arsip.png)
+![Lihat Arsip](images/lihat_arsip.jpg)
 Halaman Utama Kategori Arsip
-![Dashboard](images/dashboard_kategori.png)
+![Dashboard](images/dashboard_kategori.jpg)
 Halaman Tambah Kategori
-![Tambah Kategori](images/tambah_kategori.png)
+![Tambah Kategori](images/tambah_kategori.jpg)
 Halaman Edit Kategori
-![Edit Kategori](images/edit_kategori.png)
+![Edit Kategori](images/edit_kategori.jpg)
 Halaman Hapus Kategori
-![Hapus Kategori](images/hapus_kategori.png)
+![Hapus Kategori](images/hapus_kategori.jpg)
 Halaman About
 ![About](images/about.png)
