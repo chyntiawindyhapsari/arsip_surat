@@ -78,4 +78,4 @@ Halaman Edit Kategori
 Halaman Hapus Kategori
 ![Hapus Kategori](images/hapus_kategori.jpg)
 Halaman About
-![About](images/about.png)
+![About](images/about.jpg)
